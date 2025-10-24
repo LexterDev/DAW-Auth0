@@ -1,8 +1,8 @@
 export const environment = {
     production: true,
-    apiUrl: 'https://proyectoara-daw-hzwm.onrender.com/api',
+    apiUrl: '',
     auth0: {
-        auth0Domain: 'alexgalicia.us.auth0.com',
-        auth0ClientId: '386kEeAp1zbaYEwBDIvObVI9wyxITND2',
+        auth0Domain: '',
+        auth0ClientId: '',
     }
 }
